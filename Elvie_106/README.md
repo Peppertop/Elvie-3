@@ -3,8 +3,9 @@
 Elvie #106
 ==========
 This strip first appeared in issue #266 of Linux (Pro) Magazine, and takes some heavy inspiration from my own history with computers.
-I continues using an Atari ST (and later a Falcon) as my main computing device long after they had ceased production, and I was
-also a big fan of the Apple Newton (and yes, there is a web server available for it, and it supports PCMCIA ethernet cards). 
+I continued using an Atari ST (and later a Falcon) as my main computing device long after they had ceased production, and I was
+also a big fan of the Apple Newton (and yes, there is a web server available for it, and it supports PCMCIA Ethernet cards as shown
+in the comic strip).
 
 File Details
 ------------
