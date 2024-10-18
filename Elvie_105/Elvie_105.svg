@@ -20,7 +20,7 @@
    inkscape:export-xdpi="600.07501"
    inkscape:export-ydpi="600.07501">
   <title
-     id="title50">Elvie #104</title>
+     id="title50">Elvie #105</title>
   <defs
      id="defs4">
     <linearGradient
@@ -104,14 +104,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0272963"
-     inkscape:cx="319.88418"
+     inkscape:cx="320.87072"
      inkscape:cy="141.73228"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1436"
      inkscape:window-height="1003"
-     inkscape:window-x="214"
+     inkscape:window-x="36"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      units="mm"
@@ -128,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Elvie #104</dc:title>
+        <dc:title>Elvie #105</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:date>2022-09-16</dc:date>
@@ -139,7 +139,7 @@
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:publisher>
         <dc:identifier>http://peppertop.com/elvie/comic/elvie-105/</dc:identifier>
@@ -238,13 +238,13 @@ Boss: Now that the lockdowns are over, and everybody's back in the office…
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_105/105_panel_1.png"
        xlink:href="105_panel_1.png"
-       mask="url(#mask125)"
-       width="658.1402"
-       height="278.95908"
-       preserveAspectRatio="none"
-       id="image82"
+       y="772.53845"
        x="-2.6300697"
-       y="772.53845" />
+       id="image82"
+       preserveAspectRatio="none"
+       height="278.95908"
+       width="658.1402"
+       mask="url(#mask125)" />
   </g>
   <g
      inkscape:groupmode="layer"
