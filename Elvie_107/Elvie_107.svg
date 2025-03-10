@@ -113,7 +113,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2279876"
-     inkscape:cx="318.89765"
+     inkscape:cx="319.79532"
      inkscape:cy="141.73229"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -169,7 +169,24 @@ Elvie: But what about all the leftover glass?
 
 Glazier: Sorry, that's your problem… we don't have anything to do with ex-windows!
 </dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -229,26 +246,26 @@ Glazier: Sorry, that's your problem… we don't have anything to do with ex-wind
       <image
          sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_107/107_panel_2.png"
          xlink:href="107_panel_2.png"
-         clip-path="url(#clipPath119)"
-         style="stroke-width:9.13983822"
-         width="458.65149"
-         height="345.44745"
-         preserveAspectRatio="none"
-         id="image118"
+         y="704.69702"
          x="207.85648"
-         y="704.69702" />
+         id="image118"
+         preserveAspectRatio="none"
+         height="345.44745"
+         width="458.65149"
+         style="stroke-width:9.13983822"
+         clip-path="url(#clipPath119)" />
       <image
          sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_107/107_panel_1.png"
          xlink:href="107_panel_1.png"
-         clip-path="none"
-         style="stroke-width:13.0464325"
-         width="309.45883"
-         height="283.29584"
-         preserveAspectRatio="none"
-         id="image107"
-         x="6.298686"
+         mask="url(#mask104)"
          y="768.56873"
-         mask="url(#mask104)" />
+         x="6.298686"
+         id="image107"
+         preserveAspectRatio="none"
+         height="283.29584"
+         width="309.45883"
+         style="stroke-width:13.0464325"
+         clip-path="none" />
       <path
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.97883999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;filter:url(#filter3233-9-7-7-3)"
          d="m 522.05664,28.373047 a 44.165237,30.852421 0 0 0 -28.7793,7.5 c -25.3564,-10.691614 -57.89495,-9.749682 -80.31836,16.101562 a 31.937773,25.620409 0 0 0 -4.90234,-0.333984 31.937773,25.620409 0 0 0 -31.9375,25.619141 31.937773,25.620409 0 0 0 8.93945,17.769531 l -6.66211,16.394533 17.34766,-10.5293 a 31.937773,25.620409 0 0 0 12.3125,1.98633 31.937773,25.620409 0 0 0 31.9375,-25.621094 31.937773,25.620409 0 0 0 -13.86719,-21.123047 c 12.07129,-24.550017 38.17754,-26.333 57.48438,-12.060547 a 44.165237,30.852421 0 0 0 -5.71875,15.15039 44.165237,30.852421 0 0 0 44.16406,30.851563 44.165237,30.852421 0 0 0 44.16602,-30.851563 44.165237,30.852421 0 0 0 -44.16602,-30.853515 z"
