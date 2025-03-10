@@ -1,4 +1,4 @@
-![Elvie comic strip #105](Elvie_106_en-GB.jpg)
+![Elvie comic strip #106](Elvie_106_en-GB.jpg)
 
 Elvie #106
 ==========
