@@ -224,7 +224,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2279876"
-     inkscape:cx="318.89765"
+     inkscape:cx="319.79532"
      inkscape:cy="141.73229"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
@@ -277,6 +277,13 @@ Elvie: With this secret API key from Amazon I can write a daemon in Forth to get
 
 James: What delivery is this?
 </dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Amazon</rdf:li>
+            <rdf:li>API key</rdf:li>
+            <rdf:li>programming</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -317,13 +324,13 @@ James: What delivery is this?
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_108/108_panel_2.png"
        xlink:href="108_panel_2.png"
-       clip-path="url(#clipPath123)"
-       width="322.02753"
-       height="285.57159"
-       preserveAspectRatio="none"
-       id="image86"
+       y="757.995"
        x="318.62091"
-       y="757.995" />
+       id="image86"
+       preserveAspectRatio="none"
+       height="285.57159"
+       width="322.02753"
+       clip-path="url(#clipPath123)" />
     <text
        id="text3092"
        y="1049.1158"
@@ -350,14 +357,14 @@ James: What delivery is this?
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_108/108_panel_1.png"
        xlink:href="108_panel_1.png"
-       mask="url(#mask204)"
-       clip-path="none"
-       width="338.51633"
-       height="289.25858"
-       preserveAspectRatio="none"
-       id="image75"
+       y="765.03076"
        x="-2.2604558"
-       y="765.03076" />
+       id="image75"
+       preserveAspectRatio="none"
+       height="289.25858"
+       width="338.51633"
+       clip-path="none"
+       mask="url(#mask204)" />
   </g>
   <g
      inkscape:groupmode="layer"
