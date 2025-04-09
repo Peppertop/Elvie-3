@@ -3,7 +3,7 @@
 Elvie #109
 ==========
 This strip first appeared in issue #269 of Linux Magazine. This is a bit of speculative fiction that looks at the naming of Google,
-and wonders if there might have been some other reason for that choice, apart than the one usually cited.
+and wonders if there might have been some other reason for that choice, apart from the one usually cited.
 
 File Details
 ------------
