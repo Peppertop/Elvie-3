@@ -20,7 +20,7 @@
    inkscape:export-xdpi="600.07501"
    inkscape:export-ydpi="600.07501">
   <title
-     id="title132">Elvie #109</title>
+     id="title132">Elvie #110</title>
   <defs
      id="defs4">
     <linearGradient
@@ -498,15 +498,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2812963"
-     inkscape:cx="319.77432"
-     inkscape:cy="140.85559"
+     inkscape:zoom="2.2279876"
+     inkscape:cx="318.89764"
+     inkscape:cy="141.73228"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1564"
      inkscape:window-height="1003"
-     inkscape:window-x="198"
+     inkscape:window-x="127"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      units="mm"
@@ -524,7 +524,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Elvie #109</dc:title>
+        <dc:title>Elvie #110</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -596,26 +596,26 @@ Betty: Now he's saying something about abstraction layers…
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_110/110_panel_2.png"
        xlink:href="110_panel_2.png"
-       clip-path="url(#clipPath160)"
-       style="stroke-width:12.30445385"
-       width="424.345"
-       height="290.19305"
-       preserveAspectRatio="none"
-       id="image157"
+       y="760.63428"
        x="255.72311"
-       y="760.63428" />
+       id="image157"
+       preserveAspectRatio="none"
+       height="290.19305"
+       width="424.345"
+       style="stroke-width:12.30445385"
+       clip-path="url(#clipPath160)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-3/Elvie_110/110_panel_1.png"
        xlink:href="110_panel_1.png"
-       mask="url(#mask175)"
-       clip-path="none"
-       style="stroke-width:9.9970665"
-       width="289.0181"
-       height="311.02457"
-       preserveAspectRatio="none"
-       id="image142"
+       y="745.48834"
        x="7.6294575"
-       y="745.48834" />
+       id="image142"
+       preserveAspectRatio="none"
+       height="311.02457"
+       width="289.0181"
+       style="stroke-width:9.9970665"
+       clip-path="none"
+       mask="url(#mask175)" />
     <text
        id="text3092"
        y="1049.1158"
