@@ -1,6 +1,6 @@
 ![Elvie comic strip #115](Elvie_115_en-GB.jpg)
 
-Elvie #114
+Elvie #115
 ==========
 This strip first appeared in issue #275 of Linux Magazine.
 
